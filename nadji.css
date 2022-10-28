@@ -1,0 +1,26 @@
+body
+
+{ border: 3px black solid;}
+h1
+{
+    text-align:center;
+    color:blue;
+    font-size:blanchedalmond;
+}
+
+    background-color:gray /* Le fond de la page sera grise */
+    color:black /* Le texte de la page sera black */
+strong
+{
+    color:brown;
+}
+a:hover
+{
+    color:aquamarine;
+}
+ul {
+    text-align:justify;
+    border: 1px solid black;
+    box-shadow: 6px 6px 0px black;
+  }
+  
